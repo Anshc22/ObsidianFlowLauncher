@@ -1,0 +1,12 @@
+{
+    "ID": "com.obsidian.flowlauncher.plugin",
+    "ActionKeyword": "obs",
+    "Name": "Obsidian Notes",
+    "Description": "Access and manage your Obsidian notes from Flow Launcher. Search notes, open vaults, and create new notes.",
+    "Author": "Your Name",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://obsidian.md",
+    "IcoPath": "obsidian_icon.png",
+    "ExecuteFileName": "main.py"
+}
